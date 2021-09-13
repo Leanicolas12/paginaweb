@@ -1,0 +1,11 @@
+body {background-color: #34B6B6}
+.tituloprincipal{text-align: center; color:black ; text-decoration: underline;}
+.subtitulo{text-align:center; color:black; text-decoration: underline;}
+.subtitulos{font-family: serif; text-decoration: underline;}
+.parrafo{font-family: cursive; font-size: 150%;}
+.listas {font-family:monospace;font-size: 150%; text-align: center;}
+.foto {display: block; margin: auto;}
+.video{margin-left: auto;}
+.h3{text-align: center; font-size: 200%;}
+.localidades{font-family: fantasy;}
+.telefonos {font-family: fantasy;}
